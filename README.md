@@ -1,50 +1,27 @@
 # Replication Materials 📦
 
-# 
-
-# This repository contains the full replication package accompanying the paper: An Empirical Study of Student Team Collaboration and Success in an Agile Software Engineering Course
-
-# Authors: Damjan Fujs, Damjan Vavpotič and Marko Poženel.
-
-# Journal: Automated Software Engineering
-
-# The package includes datasets, survey instruments, user story sets, R analysis scripts, and outputs necessary to fully reproduce all results reported in the manuscript.
-
-# 
+This repository contains the full replication package accompanying the paper: An Empirical Study of Student Team Collaboration and Success in an Agile Software Engineering Course
+Authors: Damjan Fujs, Damjan Vavpotič and Marko Poženel.
+Journal: Automated Software Engineering
+The package includes datasets, survey instruments, user story sets, R analysis scripts, and outputs necessary to fully reproduce all results reported in the manuscript.
+ 
 
 # 📁 Repository Structure
-
-# ├── data/
-
-# ├── survey/
-
-# ├── user\_stories/
-
-# ├── analysis/
-
-# └── README.md
-
-# 
+├── data/
+├── survey/
+├── user\_stories/
+├── analysis/
+└── README.md 
 
 # 📘 Dataset
+All datasets used in the study are available in the data/ directory.
+ 
+# Notes 
 
-# All datasets used in the study are available in the data/ directory.
+Data are anonymized following guidelines for educational research.
+IDs are pseudonymized and cannot be linked back to students.
 
-# 
-
-# Notes
-
-# 
-
-# Data are anonymized following guidelines for educational research.
-
-# IDs are pseudonymized and cannot be linked back to students.
-
-# 
-
-# 
-
-# 📋 Survey Instrument (1KA)
+#📋 Survey Instrument (1KA)
 
 # Contains the full text of all survey items exactly as presented to students, including:
 
