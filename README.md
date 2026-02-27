@@ -14,9 +14,13 @@
 
 The repository consists of the following files/folders:
 
-👉 Readme file 📜
+### 👉 Readme file 📜
 
 Basic information about the repository. Here, the materials used by the participants.
+
+📝 User Story Sets
+
+- [Material_user-stories-for-scrum-tool.pdf](Material_user-stories-for-scrum-tool.pdf) -> This document contains set of user stories used during the student project. 
 
 📋 Survey Instrument (1KA)
 
@@ -34,9 +38,7 @@ All scripts are available here.
 
 The repository contains materials related to the research. Here you can find the following: 
 
-📝 User Story Sets
 
-- [Material_user-stories-for-scrum-tool.pdf](Material_user-stories-for-scrum-tool.pdf) -> This document contains set of user stories used during the student project. 
 
 
 
