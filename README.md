@@ -1,4 +1,4 @@
-📦Replication Materials
+#Replication Materials 📦
 This repository contains the full replication package accompanying the paper:
 An Empirical Study of Student Team Collaboration and Success in an Agile Software Engineering Course
 Authors: Damjan Fujs, Damjan Vavpotič and Marko Poženel.
