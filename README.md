@@ -41,8 +41,7 @@ The package includes datasets, survey instruments, user story sets, R analysis s
 │   └── README_analysis.md
 │
 ├── LICENSE
-└── README.md   ← You are here
-
+└── README.md
 
 📘 Dataset
 All datasets used in the study are available in the data/ directory.
