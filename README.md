@@ -16,25 +16,25 @@ The repository consists of the following files/folders:
 
 ### 👉 Readme file 📜
 
-Basic information about the repository. Here, the materials used by the participants.
+Basic information about the repository.
 
-📝 User Story Sets
+### 📝 User Story Sets
 
 - [Material_user-stories-for-scrum-tool.pdf](Material_user-stories-for-scrum-tool.pdf) -> This document contains set of user stories used during the student project. 
 
-📋 Survey Instrument (1KA)
+### 📋 Survey Instrument (1KA)
 
 TODO
 
-📘 Dataset
+### 📘 Dataset
 
 All datasets used in the study are available in the data/ directory.
 
-📊 R Analyses
+### 📊 R Analyses
 
 All scripts are available here.
 
-👉 Materials 📃
+### 👉 Materials 📃
 
 The repository contains materials related to the research. Here you can find the following: 
 
