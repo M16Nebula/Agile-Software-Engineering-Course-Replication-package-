@@ -60,13 +60,13 @@
 
 # 📊 R Analyses
 
-# All statistical analyses from the manuscript are contained in the analysis/ directory.
+All statistical analyses from the manuscript are contained in the analysis/ directory.
 
 # 
 
 # 🙌 Citation
 
-# If you use this dataset or code, please cite:
+If you use this dataset or code, please cite:
 
 # \[TO BE DONE WHEN PUBLISHED]
 
