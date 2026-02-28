@@ -22,7 +22,9 @@ Basic information about the repository.
 
 ### 📝 User Story Sets
 
-- [Material_user-stories-for-scrum-tool.pdf](Material_user-stories-for-scrum-tool.pdf) -> This document contains set of user stories used during the student project. 
+- [Material_user-stories-for-scrum-tool.pdf](Material_user-stories-for-scrum-tool.pdf) -> This document contains set of user stories used during the student project.
+  
+<img width="3310" height="1544" alt="User_stories" src="https://github.com/user-attachments/assets/56f1cb35-5250-46ac-af02-98e8c2962235" />
 
 ### 📋 Survey Instrument (1KA)
 
