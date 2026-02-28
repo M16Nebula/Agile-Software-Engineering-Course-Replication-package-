@@ -7,7 +7,7 @@
 -----------------------------------------------------
 
 > [!TIP]
-> The research is published in [TBD](TBD) Journal (ISSN 0000-0000) [^2]. <br>
+> The research is published in Automated Software Engineering Journal (ISSN 1573-7535) [^2]. <br>
 > Please check the open-access paper here for more information: 🔴TO BE DONE WHEN PUBLISHED🔴.<br>
 > Authors: Damjan Fujs, Damjan Vavpotič and Marko Poženel.<br>
 > Journal: Automated Software Engineering
@@ -52,6 +52,6 @@ All scripts are available here.
 ***💡NOTES:***
 
 [^1]: Note that a more detailed description of the research methodology and approach is included in the research paper. 
-[^2]: The published article is part of the Automated Software Engineering journal.
+[^2]: [https://link.springer.com/journal/10515](https://link.springer.com/journal/10515).
 
 
