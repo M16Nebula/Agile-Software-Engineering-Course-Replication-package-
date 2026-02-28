@@ -24,7 +24,7 @@ Basic information about the repository.
 
 - [Material_user-stories-for-scrum-tool.pdf](Material_user-stories-for-scrum-tool.pdf) -> This document contains set of user stories used during the student project. The image below shows an example. <br> 
   
-<img width="3000" height="1400" alt="User_stories" src="https://github.com/user-attachments/assets/56f1cb35-5250-46ac-af02-98e8c2962235" />*Figure 1: An example of a user story with the main elements.*
+<img width="3000" alt="User_stories" src="https://github.com/user-attachments/assets/56f1cb35-5250-46ac-af02-98e8c2962235" />*Figure 1: An example of a user story with the main elements.*
 
 ### 📋 Survey Instrument (1KA)
 
