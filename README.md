@@ -4,11 +4,15 @@
 
 ### This repository contains supporting materials used in our research.[^1] 
 
+-----------------------------------------------------
+
 > [!TIP]
 > The research is published in [TBD](TBD) Journal (ISSN 0000-0000) [^2]. <br>
 > Please check the open-access paper here for more information: 🔴TO BE DONE WHEN PUBLISHED🔴.<br>
 > Authors: Damjan Fujs, Damjan Vavpotič and Marko Poženel.<br>
 > Journal: Automated Software Engineering
+
+-----------------------------------------------------
 
 > [!NOTE] 
 > The package includes datasets, survey instruments, user story sets, R analysis scripts, and outputs necessary to fully reproduce all results reported in the manuscript.<br>
@@ -20,24 +24,31 @@ The repository consists of the following files/folders:
 
 Basic information about the repository.
 
+-----------------------------------------------------
+
 ### 📝 User Story Sets
 
 - [Material_user-stories-for-scrum-tool.pdf](Material_user-stories-for-scrum-tool.pdf) -> This document contains set of user stories used during the student project. The image below shows an example. <br> 
   
 <img width="3000" alt="User_stories" src="https://github.com/user-attachments/assets/56f1cb35-5250-46ac-af02-98e8c2962235" />*Figure 1: An example of a user story with the main elements.*
 
+-----------------------------------------------------
+
 ### 📋 Survey Instrument (1KA)
 
 TODO
+
+-----------------------------------------------------
 
 ### 📘 Dataset
 
 All datasets used in the study are available in the data/ directory.
 
+-----------------------------------------------------
+
 ### 📊 R Analyses
 
 All scripts are available here.
-
 
 
 -----------------------------------------------------
