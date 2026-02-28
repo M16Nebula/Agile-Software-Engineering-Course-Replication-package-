@@ -1,6 +1,8 @@
 # Replication Materials 📦💻 
  
-### This repository contains the full replication package accompanying the paper: An Empirical Study of Student Team Collaboration and Success in an Agile Software Engineering CourseThis repository contains supporting materials used in our research.[^1] 
+## This repository contains the full replication package accompanying the paper: An Empirical Study of Student Team Collaboration and Success in an Agile Software Engineering Course<br>
+
+### This repository contains supporting materials used in our research.[^1] 
 
 > [!TIP]
 > The research is published in [TBD](TBD) Journal (ISSN 0000-0000) [^2]. <br>
