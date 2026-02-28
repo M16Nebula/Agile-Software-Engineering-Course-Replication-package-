@@ -38,13 +38,6 @@ All datasets used in the study are available in the data/ directory.
 
 All scripts are available here.
 
-### 👉 Materials 📃
-
-The repository contains materials related to the research. Here you can find the following: 
-
-
-
-
 
 👉**Source**: 🔴TO BE DONE WHEN PUBLISHED🔴
 
@@ -52,6 +45,6 @@ The repository contains materials related to the research. Here you can find the
 ***💡NOTES:***
 
 [^1]: Note that a more detailed description of the research methodology and approach is included in the research paper. 
-[^2]: The published article is part of the "TO BE DONE".
+[^2]: The published article is part of the Automated Software Engineering journal.
 
 
