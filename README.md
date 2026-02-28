@@ -5,7 +5,9 @@
 > [!TIP]
 > The research is published in [TBD](TBD) Journal (ISSN 0000-0000) [^2]. 
 > Please check the open-access paper here for more information: 🔴TO BE DONE WHEN PUBLISHED🔴.
+
 > Authors: Damjan Fujs, Damjan Vavpotič and Marko Poženel.
+
 > Journal: Automated Software Engineering
 
 > [!NOTE] 
