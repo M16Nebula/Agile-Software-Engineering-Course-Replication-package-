@@ -3,13 +3,13 @@
 ### This repository contains the full replication package accompanying the paper: An Empirical Study of Student Team Collaboration and Success in an Agile Software Engineering CourseThis repository contains supporting materials used in our research.[^1] 
 
 > [!TIP]
-> The research is published in [TBD](TBD) Journal (ISSN 0000-0000) [^2]. 
+> The research is published in [TBD](TBD) Journal (ISSN 0000-0000) [^2]. <br>
 > Please check the open-access paper here for more information: 🔴TO BE DONE WHEN PUBLISHED🔴.<br>
 > Authors: Damjan Fujs, Damjan Vavpotič and Marko Poženel.<br>
 > Journal: Automated Software Engineering
 
 > [!NOTE] 
-> The package includes datasets, survey instruments, user story sets, R analysis scripts, and outputs necessary to fully reproduce all results reported in the manuscript.
+> The package includes datasets, survey instruments, user story sets, R analysis scripts, and outputs necessary to fully reproduce all results reported in the manuscript.<br>
 > If you have any questions, please contact the author of the study at the email address: damjan.fujs[[a.t]]fri.uni-lj.si
 
 The repository consists of the following files/folders:
