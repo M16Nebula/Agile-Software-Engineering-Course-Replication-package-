@@ -18,12 +18,6 @@
 > The package includes datasets, survey instruments, user story sets, R analysis scripts, and outputs necessary to fully reproduce all results reported in the manuscript.<br>
 > If you have any questions, please contact the author of the study at the email address: damjan.fujs[[a.t]]fri.uni-lj.si
 
-The repository consists of the following files/folders:
-
-### 👉 Readme file 📜
-
-Basic information about the repository.
-
 -----------------------------------------------------
 
 ### 📝 User Story Sets
