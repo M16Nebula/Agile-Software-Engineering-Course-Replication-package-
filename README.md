@@ -30,7 +30,7 @@
 
 ### 📘 Survey Instrument/Dataset
 
-- [Data.xlsx](Data.xlsx) -> This file contains dataset and the data description (codebook). <br> 
+- [Data.xlsx](Data.xlsx) -> This file contains dataset and the data description (codebook). The file contains two tabs: <br> 
 
 
 <img width="450"
