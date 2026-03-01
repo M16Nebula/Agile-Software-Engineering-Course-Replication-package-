@@ -28,15 +28,10 @@
 
 -----------------------------------------------------
 
-### 📋 Survey Instrument (1KA)
+### 📘 Survey Instrument/Dataset
 
-TODO
 
------------------------------------------------------
 
-### 📘 Dataset
-
-All datasets used in the study are available in the data/ directory.
 
 -----------------------------------------------------
 
