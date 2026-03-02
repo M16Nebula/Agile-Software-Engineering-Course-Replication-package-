@@ -46,6 +46,7 @@
 
 - [LolipopDelta.R](LolipopDelta.R) -> R script containing data and analysis that resulted in a lollipop diagram. <br> 
 - [BarChartPRBL.R](BarChartPRBL.R) -> R script containing data and analysis that resulted in a Bar Chart for analyzing Problem based learning construct. <br> 
+- [BarChart_Scrum.R](BarChart_Scrum.R) -> R script containing data and analysis that resulted in a Bar Chart for analyzing Scrum phases usefulness. <br> 
 
 -----------------------------------------------------
 
