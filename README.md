@@ -44,7 +44,7 @@
 
 ### 📊 R Analyses
 
-All scripts are available here.
+- [LolipopDelta.R](LolipopDelta.R) -> R script containing data and analysis that resulted in a lollipop diagram. <br> 
 
 
 -----------------------------------------------------
