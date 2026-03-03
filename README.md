@@ -8,7 +8,7 @@
 
 > [!TIP]
 > The research is published in Automated Software Engineering Journal (ISSN 1573-7535) [^2]. <br>
-> Please check the open-access paper here for more information: 🔴TO BE DONE WHEN PUBLISHED🔴.<br>
+> Please check the open-access paper here for more information: 🔴ADD FULL CITATION WHEN PUBLISHED🔴.<br>
 > Authors: Damjan Fujs, Damjan Vavpotič and Marko Poženel.<br>
 > Journal: Automated Software Engineering
 
