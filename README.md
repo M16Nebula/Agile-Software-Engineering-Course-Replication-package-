@@ -9,9 +9,9 @@
 > [!TIP]
 > The research is published in Automated Software Engineering Journal (ISSN 1573-7535) [^2]. <br>
 > Please check the open-access paper here for more information: 🔴ADD FULL CITATION WHEN PUBLISHED🔴.<br>
-> Authors: Damjan Fujs, Damjan Vavpotič and Marko Poženel.<br>
+> Authors: Damjan Fujs [<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" width="16" height="16">](https://orcid.org/0000-0000-0000-0000), Damjan Vavpotič [<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" width="16" height="16">](https://orcid.org/0000-0000-0000-0000) and Marko Poženel [<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" width="16" height="16">](https://orcid.org/0000-0000-0000-0000).<br>
 > Journal: Automated Software Engineering
-[<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" width="16" height="16">](https://orcid.org/0000-0000-0000-0000)
+
 -----------------------------------------------------
 
 > [!NOTE] 
