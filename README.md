@@ -1,7 +1,6 @@
 # Replication Materials 📦💻 
  
 ## This repository contains the full replication package accompanying the paper: An Empirical Study of Student Team Collaboration and Success in an Agile Software Engineering Course<br>
-## Authors: Damjan Fujs [<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" width="16" height="16">](https://orcid.org/0000-0002-6357-8569), Damjan Vavpotič [<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" width="16" height="16">](https://orcid.org/0000-0002-8039-7110) and Marko Poženel [<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" width="16" height="16">](https://orcid.org/0000-0002-1789-8668).<br>
 
 ### This repository contains supporting materials used in our research.[^1] 
 
