@@ -11,7 +11,7 @@
 > Please check the open-access paper here for more information: 🔴ADD FULL CITATION WHEN PUBLISHED🔴.<br>
 > Authors: Damjan Fujs, Damjan Vavpotič and Marko Poženel.<br>
 > Journal: Automated Software Engineering
-
+[<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" width="16" height="16">](https://orcid.org/0000-0000-0000-0000)
 -----------------------------------------------------
 
 > [!NOTE] 
