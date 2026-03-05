@@ -43,7 +43,7 @@
 -----------------------------------------------------
 
 ### 📊 Analyses (R Programming language)
-
+R version 4.4.2 ”Pile of Leaves” (source version)
 - [LollipopDelta.R](LollipopDelta.R) -> R script containing data and analysis that resulted in a lollipop diagram. <br> 
 - [BarChartPRBL.R](BarChartPRBL.R) -> R script containing data and analysis that resulted in a bar Chart for analyzing Problem based learning construct. <br> 
 - [BarChartScrum.R](BarChartScrum.R) -> R script containing data and analysis that resulted in a bar Chart for analyzing Scrum phases usefulness. <br> 
