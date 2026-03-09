@@ -2,12 +2,12 @@
  
 ## This repository contains the full replication package accompanying the paper: An Empirical Study of Student Team Collaboration and Success in an Agile Software Engineering Course<br>
 
-### This repository contains supporting materials used in our research.[^1] 
+### This repository contains supporting materials used in our research [^1] 
 
 -----------------------------------------------------
 
 > [!TIP]
-> The research is published in Automated Software Engineering Journal (ISSN 1573-7535) [^2]. <br>
+> The research is published in Automated Software Engineering Journal (ISSN 1573-7535) [^2] <br>
 > Please check the open-access paper here for more information: 🔴ADD FULL CITATION WHEN PUBLISHED🔴.<br>
 > Authors: Damjan Fujs [<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" width="16" height="16">](https://orcid.org/0000-0002-6357-8569), Damjan Vavpotič [<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" width="16" height="16">](https://orcid.org/0000-0002-8039-7110) and Marko Poženel [<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" width="16" height="16">](https://orcid.org/0000-0002-1789-8668).<br>
 > Journal: Automated Software Engineering
@@ -22,9 +22,9 @@
 
 ### 📝 User Story Sets
 
-- [Material_user-stories-for-scrum-tool.pdf](Material_user-stories-for-scrum-tool.pdf) -> This document contains set of user stories used during the student project. The image below shows an example. <br> 
+- [Material_user-stories-for-scrum-tool.pdf](Material_user-stories-for-scrum-tool.pdf) -> This document contains set of user stories used during the student project. The image below shows one example of user story. <br> 
   
-<img width="3000" alt="User_stories" src="https://github.com/user-attachments/assets/56f1cb35-5250-46ac-af02-98e8c2962235" />*Figure 1: An example of a user story with the main elements.*
+<img width="3000" alt="User_stories" src="https://github.com/user-attachments/assets/56f1cb35-5250-46ac-af02-98e8c2962235" />*Figure 1: An example of a user story structure, with the main elements (Name, Priority, Description, Acceptance tests and Business value).*
 
 -----------------------------------------------------
 
