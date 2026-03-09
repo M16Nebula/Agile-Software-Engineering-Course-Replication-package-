@@ -36,7 +36,7 @@
 <img width="450"
      src="https://github.com/user-attachments/assets/9eb16221-9a4f-4c37-a258-dd09d2463b53" />
 
-*Figure2: Overview of the data stored in the Excel file: Codebook tab shows the structure of the dataset and all the items used, including variable names, a preview of the values contained in each column, etc. while Data tab contains raw data.*
+*Figure2: Overview of the data stored in the Excel file: Codebook tab (yellow) shows the structure of the dataset and all the items used, including variable names, a preview of the values contained in each column, etc. while Data tab (green) contains raw data.*
 
 
 
