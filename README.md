@@ -22,7 +22,7 @@
 
 ### 📝 User Story Sets
 
-- [Material_user-stories-for-scrum-tool.pdf](Material_user-stories-for-scrum-tool.pdf) -> This document contains set of user stories used during the student project. The image below shows one example of user story. <br> 
+- [Material_user-stories-for-scrum-tool.pdf](Material_user-stories-for-scrum-tool.pdf) -> This document contains set of user stories used during the student project. The image below shows one example of user story. In total, there were 30 user stories, with varying priority levels <br> 
   
 <img width="3000" alt="User_stories" src="https://github.com/user-attachments/assets/56f1cb35-5250-46ac-af02-98e8c2962235" />*Figure 1: An example of a user story structure, with the main elements (Name, Priority, Description, Acceptance tests and Business value).*
 
