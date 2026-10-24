@@ -50,7 +50,7 @@
 
 -----------------------------------------------------
 
-👉**Source**: 🔴ADD FULL CITATION WHEN PUBLISHED🔴
+👉**Source**: Fujs, D., Vavpotič, D., & Poženel, M. (2026). From perception to performance: An empirical study of student team collaboration and success in an agile software engineering course. Automated Software Engineering, 33(3), 88.
 
 ***💡NOTES:***
 
