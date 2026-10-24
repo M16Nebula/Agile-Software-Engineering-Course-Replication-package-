@@ -55,6 +55,6 @@
 ***💡NOTES:***
 
 [^1]: Note that a more detailed description of the research methodology and approach is included in the research paper. 
-[^2]: [https://link.springer.com/journal/10515](https://link.springer.com/journal/10515).
+[^2]: [https://link.springer.com/article/10.1007/s10515-026-00633-w](https://link.springer.com/article/10.1007/s10515-026-00633-w).
 
 
